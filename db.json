@@ -1,0 +1,178 @@
+{
+    "suppliers": [
+      {
+        "id": "6087",
+        "name": "Carlos Souza",
+        "email": "carlos.souza@example.com",
+        "phone": "99887766"
+      },
+      {
+        "id": "7021",
+        "name": "Beatriz Costa",
+        "email": "beatriz.costa@example.com",
+        "phone": "66778899"
+      },
+      {
+        "id": "8034",
+        "name": "Felipe Almeida",
+        "email": "felipe.almeida@example.com",
+        "phone": "11223344"
+      },
+      {
+        "id": "9056",
+        "name": "Juliana Pereira",
+        "email": "juliana.pereira@example.com",
+        "phone": "77665544"
+      },
+      {
+        "id": "11002",
+        "name": "Mariana Oliveira",
+        "email": "mariana.oliveira@example.com",
+        "phone": "99887700"
+      },
+      {
+        "id": "12013",
+        "name": "Rafael Rodrigues",
+        "email": "rafael.rodrigues@example.com",
+        "phone": "44332211"
+      },
+      {
+        "id": "13018",
+        "name": "Leticia Fernandes",
+        "email": "leticia.fernandes@example.com",
+        "phone": "88776655"
+      },
+      {
+        "id": "15037",
+        "name": "Isabela Lima",
+        "email": "isabela.lima@example.com",
+        "phone": "22334455"
+      },
+      {
+        "id": "18060",
+        "name": "Thiago Oliveira",
+        "email": "thiago.oliveira@example.com",
+        "phone": "44332211"
+      },
+      {
+        "id": "19070",
+        "name": "Patricia Rodrigues",
+        "email": "patricia.rodrigues@example.com",
+        "phone": "11223344"
+      },
+      {
+        "id": "20082",
+        "name": "Vitor Fernandes",
+        "email": "vitor.fernandes@example.com",
+        "phone": "33221100"
+      },
+      {
+        "id": "21091",
+        "name": "Fernanda Lima",
+        "email": "fernanda.lima@example.com",
+        "phone": "99887700"
+      },
+      {
+        "id": "220104",
+        "name": "Cristiano Costa",
+        "email": "cristiano.costa@example.com",
+        "phone": "55449988"
+      },
+      {
+        "id": "230111",
+        "name": "Carolina Souza",
+        "email": "carolina.souza@example.com",
+        "phone": "88776655"
+      },
+      {
+        "id": "240125",
+        "name": "Roberto Oliveira",
+        "email": "roberto.oliveira@example.com",
+        "phone": "22334455"
+      },
+      {
+        "id": "250137",
+        "name": "Renata Lima",
+        "email": "renata.lima@example.com",
+        "phone": "99886644"
+      },
+      {
+        "id": "260148",
+        "name": "Rodrigo Santos",
+        "email": "rodrigo.santos@example.com",
+        "phone": "66554433"
+      },
+      {
+        "id": "270160",
+        "name": "Natalia Oliveira",
+        "email": "natalia.oliveira@example.com",
+        "phone": "44332211"
+      },
+      {
+        "id": "280170",
+        "name": "Marcio Fernandes",
+        "email": "marcio.fernandes@example.com",
+        "phone": "11223344"
+      },
+      {
+        "id": "290182",
+        "name": "Vanessa Costa",
+        "email": "vanessa.costa@example.com",
+        "phone": "33221100"
+      },
+      {
+        "id": "300191",
+        "name": "Vinicius Lima",
+        "email": "vinicius.lima@example.com",
+        "phone": "99887700"
+      },
+      {
+        "id": "310202",
+        "name": "Luisa Rodrigues",
+        "email": "luisa.rodrigues@example.com",
+        "phone": "55449988"
+      },
+      {
+        "id": "320211",
+        "name": "Diego Oliveira",
+        "email": "diego.oliveira@example.com",
+        "phone": "88776655"
+      },
+      {
+        "id": "330224",
+        "name": "Amanda Souza",
+        "email": "amanda.souza@example.com",
+        "phone": "22334455"
+      },
+      {
+        "id": "340237",
+        "name": "Ricardo Lima",
+        "email": "ricardo.lima@example.com",
+        "phone": "99886644"
+      },
+      {
+        "id": "350250",
+        "name": "Camila Santos",
+        "email": "camila.santos@example.com",
+        "phone": "66554433"
+      },
+      {
+        "id": "360262",
+        "name": "Renato Oliveira",
+        "email": "renato.oliveira@example.com",
+        "phone": "44332211"
+      },
+      {
+        "id": "370271",
+        "name": "Ana Clara Fernandes",
+        "email": "anaclara.fernandes@example.com",
+        "phone": "11223344"
+      },
+      {
+        "id": "380283",
+        "name": "Thales Costa",
+        "email": "thales.costa@example.com",
+        "phone": "33221100"
+      }
+    ]
+  }
